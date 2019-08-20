@@ -18,7 +18,7 @@
 * Then you can run/install it in Citra.
 
 # Songs that can't be replaced. 
-The shop music, boat ride, milk bar, and minigame music are mono and sound like they're playing out of a radio. For some reason unbeknownst to me. Porting the originals causes extreme audio bugs and crashes even when converted to mono.
+The shop music, boat ride, milk bar, and minigame music are mono and sound like they're playing out of a radio. For some reason unbeknownst to me. Porting the originals causes extreme audio bugs and sometimes crashes, even when converted to mono.
 If anyone can solve this mystery, I'll try and put them back in.
 
 # Tools used
