@@ -15,12 +15,14 @@
 
 ## Citra:
 * Download the [3DS .NET Toolkit](https://github.com/evandixon/DotNet3dsToolkit/releases/) and use it to extract your Decrypted CCI/.3DS/.CIA ROM of the game. 
-* Replace the files in the extracted Romfs directory with the ones from the zip and rebuild the .3DS/.CIA file. 
+* Replace the files in the extracted RomFS directory with the ones from the .zip and rebuild the .3DS/.CIA file. 
 * Then you can run/install it in Citra.
 
 # Songs that can't be replaced. 
 The shop music, boat ride, milk bar, and minigame music are mono and sound like they're playing out of a radio. For some reason unbeknownst to me. Porting the originals causes extreme audio bugs and sometimes crashes, even when converted to mono.
 If anyone can solve this mystery, I'll try and put them back in.
+
+"130NA_BGM_STAFFROLL2.dspadpcm.wav" and "130NA_BGM_STAFFROLL2.dspadpcm_1.wav" can't be replaced because they're not in the original rips.
 
 # Tools used
 * [Fl Studio](https://www.image-line.com/flstudio)
