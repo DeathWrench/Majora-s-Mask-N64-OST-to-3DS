@@ -24,6 +24,9 @@ If anyone can solve this mystery, I'll try and put them back in.
 
 "130NA_BGM_STAFFROLL2.dspadpcm.wav" and "130NA_BGM_STAFFROLL2.dspadpcm_1.wav" can't be replaced because they're not in the original rips.
 
+"NA_BGM_M_BARQUARTET.wav" While I can replace this, it wouldn't sound very good.
+The rest are just sound effects.
+
 # Tools used
 * [Fl Studio](https://www.image-line.com/flstudio)
 * [Audacity](https://www.audacityteam.org)
