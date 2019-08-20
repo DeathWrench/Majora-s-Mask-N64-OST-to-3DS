@@ -7,8 +7,8 @@
 # Installation
 
 ## Luma:
-* Luma Instructions Hold Select while booting your 3DS and enable game patching in the Luma configuration menu.
-* On your SD card, merge the luma folder (and its contents) from the ZIP with your luma folder.
+* Hold Select while booting your 3DS and enable game patching in the Luma configuration menu.
+* On your SD card, create these folders: \luma\titles\0004000000125500\ and put the RomFS folder from this mod into there.
 * If your copy of the game is a different region, change the directory name inside \luma\titles to the [titleid of your copy.](https://titledb.com/) (e.g. 0004000000125500)
 * Insert your SD card, restart the system, and changes should take place when you launch the game!
 
