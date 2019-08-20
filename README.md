@@ -8,9 +8,9 @@
 
 ## Luma:
 * Hold Select while booting your 3DS and enable game patching in the Luma configuration menu.
-* On your SD card, put the RomFS folder into luma/titles/0004000000125X00
-* USA = 0004000000125500
-* EUR = 0004000000125600
+* On your SD card, put the RomFS folder into luma/titles/0004000000125***X***00
+* USA = 0004000000125***5***00
+* EUR = 0004000000125***6***00
 * Insert your SD card, restart the system, and changes should take place when you launch the game!
 
 ## Citra:
