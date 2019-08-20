@@ -1,5 +1,5 @@
 # About
-#### The 3DS version of Majora's Mask has terrible amounts of reverb; compared to the original soundtrack a lot of the songs just sound wrong. I set out to fix this by replacing the 3DS OST with N64 rips. 
+#### The 3DS version of Majora's Mask has terrible amounts of reverb; compared to the original soundtrack, a lot of the songs just sound wrong. I set out to fix this by replacing the 3DS OST with N64 rips. 
 #### This also works with [Project Restoration](https://github.com/leoetlino/project-restoration)
 
 # Installation
@@ -7,7 +7,7 @@
 ## Luma:
 * Luma Instructions Hold Select while booting your 3DS and enable game patching in the Luma configuration menu.
 * On your SD card, merge the luma folder (and its contents) from the ZIP with your luma folder.
-* If your copy of the game is a different region, change the directory name inside \luma\titles to the titleid of your copy. (e.g. 0004000000125500)
+* If your copy of the game is a different region, change the directory name inside \luma\titles to the [titleid of your copy.](https://titledb.com/) (e.g. 0004000000125500)
 * Insert your SD card, restart the system, and changes should take place when you launch the game!
 
 ## Citra:
