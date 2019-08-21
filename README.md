@@ -28,10 +28,14 @@ If anyone can solve this mystery, I'll try and put them back in.
 The rest are just sound effects.
 
 # Tools used
-* [Fl Studio](https://www.image-line.com/flstudio)
 * [Audacity](https://www.audacityteam.org)
+* [Fl Studio](https://www.image-line.com/flstudio)
+* [Foobar2000](https://www.foobar2000.org)
 * [Looping Audio Converter](https://github.com/libertyernie/LoopingAudioConverter/releases)
 * my ears
+
+# Playback
+If you want to play these files back you need Foobar2000 and [vgmstream decoder](https://www.foobar2000.org/components/view/foo_input_vgmstream)
 
 # How this came to be
 I recently made an [MSU-1 pack for A Link to the Past](https://www.zeldix.net/t791-the-legend-of-zelda-a-link-to-the-past) with help from [qwertymodo](https://github.com/qwertymodo) converting the original soundtrack from ALTTP to .pcm in order to fix the music from cutting out when multiple sounds are playing. I was under the assumption that the 3DS version of Majora's Mask used sequenced audio for music. Bl4zerp told me I was wrong so I looked into it. Turns out Majora's Mask music is in .bcstm format, which is basically .pcm, and now we're here.
