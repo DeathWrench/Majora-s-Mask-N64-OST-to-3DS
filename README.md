@@ -39,12 +39,15 @@ If you want to play these files back you need Foobar2000 and [vgmstream decoder]
 
 # Editing process
 My process for editing the files in v2.0 went as follows:
+Pre edits:
 * Convert 3DS .bcstm files to .wav using foobar and place them in a folder called 3dswav
 * Convert .miniusf rips to .wav using foobar and place them in a folder called 64wav
 * Open Audacity and drag all the 64wav files into it
 * CTRL + A to select all and change tempo to 6.1 to match the speed of the 3DS rip.
 * Export multiple into a folder called 64sped
-* check hh:mm:ss + miliseconds to find the exact time of the miniusf rip now that it's sped up.
+Edit edits:
+* drag single 3DSwav file followed by the matching 64sped file
+* Check hh:mm:ss + miliseconds to find the exact time of the miniusf rip now that it's sped up.
 * Open the slow 64wav rip in FL Studio and normalize if the waveform is too small
 * Time stretch / pitch shifter then put length as exact miliseconds
 * Export
