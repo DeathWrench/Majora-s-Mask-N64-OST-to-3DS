@@ -37,5 +37,22 @@ The rest are just sound effects.
 # Playback
 If you want to play these files back you need Foobar2000 and [vgmstream decoder](https://www.foobar2000.org/components/view/foo_input_vgmstream)
 
+# Editing process
+My process for editing the files in v2.0 went as follows:
+* Convert 3DS .bcstm files to .wav using foobar and place them in a folder called 3dswav
+* Convert .miniusf rips to .wav using foobar and place them in a folder called 64wav
+* Open Audacity and drag all the 64wav files into it
+* CTRL + A to select all and change tempo to 6.1 to match the speed of the 3DS rip.
+* Export multiple into a folder called 64sped
+* check hh:mm:ss + miliseconds to find the exact time of the miniusf rip now that it's sped up.
+* Open the slow 64wav rip in FL Studio and normalize if the waveform is too small
+* Time stretch / pitch shifter then put length as exact miliseconds
+* Export
+* Drag this new rip into the same Audacity window as before.
+* Find loop points and put them into loop.txt
+* If anything clips fix it
+* Click the [x]s on the other rips and leave only this new edited rip
+* Export at 32000hz .wav with metadata removed and then convert to .bcstm using Looping Audio Converter.
+
 # How this came to be
 I recently made an [MSU-1 pack for A Link to the Past](https://www.zeldix.net/t791-the-legend-of-zelda-a-link-to-the-past) with help from [qwertymodo](https://github.com/qwertymodo) converting the original soundtrack from ALTTP to .pcm in order to fix the music from cutting out when multiple sounds are playing. I was under the assumption that the 3DS version of Majora's Mask used sequenced audio for music. Bl4zerp told me I was wrong so I looked into it. Turns out Majora's Mask music is in .bcstm format, which is basically .pcm, and now we're here.
