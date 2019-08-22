@@ -53,7 +53,7 @@ My process for editing the files in v2.0 went as follows:
 * Time stretch / pitch shifter then put length as exact miliseconds
 * Export
 * Drag this new rip into the same Audacity window as before.
-* Find loop points and put them into loop.txt
+* Find loop points (if there are any) and put them into loop.txt
 * If anything clips fix it
 * Click the [x]s on the other rips and leave only this new edited rip
 * Export at 32000hz .wav with metadata removed and then convert to .bcstm using Looping Audio Converter.
