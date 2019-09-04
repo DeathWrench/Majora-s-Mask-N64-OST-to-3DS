@@ -25,7 +25,7 @@ If anyone can solve this mystery, I'll try and put them back in.
 
 "130NA_BGM_STAFFROLL2.dspadpcm.wav" and "130NA_BGM_STAFFROLL2.dspadpcm_1.wav" can't be replaced because they're not in the original rips.
 
-"NA_BGM_M_BARQUARTET.wav" While I can replace this, it didn't sound very good as I had to cut the entire song off half way (that's what this rip is essentially, half a song)
+"NA_BGM_M_BARQUARTET.wav" While I can replace this, it didn't sound very good as I had to cut the entire song off half way, it sounded bad to me so I didn't do it.
 ####
 The rest are just sound effects.
 
