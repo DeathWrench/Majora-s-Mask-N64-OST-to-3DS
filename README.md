@@ -13,8 +13,9 @@
 * USA = 0004000000125***5***00
 * EUR = 0004000000125***6***00
 * Insert your SD card, restart the system, and changes should take place when you launch the game!
-
-## Citra:
+## Citra new method:
+* Put the romfs folder in "%AppData%\Citra\load\mods\0004000000125X00" (by default) to apply the mod on Citra Canary
+## Citra old method:
 * Download the [3DS .NET Toolkit](https://github.com/evandixon/DotNet3dsToolkit/releases/) and use it to extract your Decrypted CCI/.3DS/.CIA ROM of the game. 
 * Replace the files in the extracted RomFS directory with the ones from the .zip and rebuild the .3DS/.CIA file. 
 * Then you can run/install it in Citra.
