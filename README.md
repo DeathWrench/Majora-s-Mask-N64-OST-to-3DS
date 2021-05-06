@@ -64,8 +64,8 @@ My process for editing the files in v2.0 went as follows:
 * If anything clips fix it
 * Click the [x]s on the other rips and leave only this new edited rip
 * Export at 32000hz .wav with metadata removed and then convert to .bcstm using Looping Audio Converter.
-~~ Because of this process I am not completely satisfied with it, I require higher quality rips. If you send me these files. I will redo this mod a final time.~~
-Newest update keeps best from all versions.
+~~ Because of this process I am not completely satisfied with it, I require higher quality rips. If you send me these files. I will redo this mod a final time. ~~
+Newest update keeps best from all versions. 
 
 # How this came to be
 I recently made an [MSU-1 pack for A Link to the Past](https://www.zeldix.net/t791-the-legend-of-zelda-a-link-to-the-past) with help from [qwertymodo](https://github.com/qwertymodo) converting the original soundtrack from ALTTP to .pcm in order to fix the music from cutting out when multiple sounds are playing. I was under the assumption that the 3DS version of Majora's Mask used sequenced audio for music. [Bl4zerp](https://github.com/bl4zerp) told me I was wrong so I looked into it. Turns out Majora's Mask music is in .bcstm format, which is basically .pcm, and now we're here.
