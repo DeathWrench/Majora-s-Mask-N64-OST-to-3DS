@@ -64,7 +64,7 @@ My process for editing the files in v2.0 went as follows:
 * If anything clips fix it
 * Click the [x]s on the other rips and leave only this new edited rip
 * Export at 32000hz .wav with metadata removed and then convert to .bcstm using Looping Audio Converter.
-~~Because of this process I am not completely satisfied with it, I require higher quality rips. If you send me these files. I will redo this mod a final time.~~
+
 Newest update keeps best from all versions. 
 
 # How this came to be
