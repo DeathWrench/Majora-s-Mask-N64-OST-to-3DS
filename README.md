@@ -1,6 +1,9 @@
 # About
 #### The 3DS version of Majora's Mask has terrible amounts of reverb; compared to the original soundtrack, a lot of the songs just sound wrong. I set out to fix this by replacing the 3DS OST with N64 rips. 
-### This also works with [Project Restoration](https://github.com/leoetlino/project-restoration) by [leoetlino](https://github.com/leoetlino)
+### Complimentary Mods:
+### [Project Restoration](https://github.com/leoetlino/project-restoration) by [leoetlino](https://github.com/leoetlino)
+### [MM3DHD](https://https://github.com/DeathWrench/MM3DHD)
+_____
 ### Optional [Keaton's Quiz](https://www.youtube.com/watch?v=Gi73mO54SBo) song replacer
 * ### Midna's Lament by [Nerrel](https://www.patreon.com/Nerrel)
 # [Download releases here](https://github.com/DeathWrench/Majora-s-Mask-N64-OST-to-3DS/releases/)
